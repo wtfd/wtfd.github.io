@@ -13,7 +13,8 @@ high quality video presentations from the text scripts!
     
 ### Example
 
-**First,** take a look at this page.
+**First,** take a look at
+<a referrerpolicy="no-referrer" target="_blank" href="https://facebook.github.io/react/docs/installation.html">this page</a>
 You might have came across it before: it's the first thing to read when one starts working
 with React:
 
