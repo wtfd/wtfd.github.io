@@ -1,6 +1,9 @@
-## WatchTheDocs
+## Turn your Docs to Video!
 
-Service to generate video presentation using just a text script!
+This service automatically generates
+high quality video presentations from text scripts!
+
+### Here is how it works:
 
 1. Create a transcript in Markdown
 2. Break it down to slides using special marks
