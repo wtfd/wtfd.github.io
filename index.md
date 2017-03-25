@@ -13,9 +13,11 @@ high quality video presentations from the text scripts!
     
 ### Example
 
-**First,** take a look at **[this page](https://facebook.github.io/react/docs/installation.html)**.
+**First,** take a look at this page.
 You might have came across it before: it's the first thing to read when one starts working
-with React.
+with React:
+
+<iframe width="620" height="520" referrerpolicy="no-referrer" src="https://facebook.github.io/react/docs/installation.html"></iframe>
 
 **Then** watch this video. It was automatically generated from the page above!
 
