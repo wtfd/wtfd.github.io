@@ -3,6 +3,14 @@
 This service automatically generates
 high quality video presentations from the text scripts!
 
+### Here is how it works:
+
+    1. Create a transcript in Markdown
+    2. Break it down to slides using special markup
+    3. Add tables, charts, graphics...
+    4. Submit the transcript
+    5. Get video presentation with a voiceover!
+    
 ### Example
 
 **First,** take a look at **[this page](https://facebook.github.io/react/docs/installation.html)**.
@@ -12,15 +20,6 @@ with React.
 **Then** watch this video. It was automatically generated from the page above!
 
 <iframe width="620" height="520" src="https://www.youtube.com/embed/vlOPzKRUwQs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-### Here is how it works:
-
-    1. Create a transcript in Markdown
-    2. Break it down to slides using special markup
-    3. Add tables, charts, graphics...
-    4. Submit the transcript
-    5. Get video presentation with a voiceover!
-
 
 ### It's still under construction...
 
