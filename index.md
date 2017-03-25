@@ -3,6 +3,16 @@
 This service automatically generates
 high quality video presentations from text scripts!
 
+### Example
+
+**First,** take a look at this page: https://facebook.github.io/react/docs/installation.html
+You might have came across it before: it's the first thing to read when one starts working
+with React.
+
+**Then** watch this video. It was automatically generated from the page above!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vlOPzKRUwQs" frameborder="0" allowfullscreen></iframe>
+
 ### Here is how it works:
 
 1. Create a transcript in Markdown
