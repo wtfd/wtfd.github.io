@@ -11,7 +11,7 @@ with React.
 
 **Then** watch this video. It was automatically generated from the page above!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vlOPzKRUwQs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="620" height="520" src="https://www.youtube.com/embed/vlOPzKRUwQs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Here is how it works:
 
